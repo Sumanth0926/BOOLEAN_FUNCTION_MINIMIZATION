@@ -15,8 +15,24 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions
 
-**Logic Diagram**
+**Boolean Expression**
+(i)F1
+![WhatsApp Image 2024-12-21 at 11 58 25_9688a08b](https://github.com/user-attachments/assets/2127cbcc-68f8-43a9-9836-bcb6ae081551)
+
+(ii)F2
+![WhatsApp Image 2024-12-21 at 11 58 44_e0a93405](https://github.com/user-attachments/assets/d7010a77-ceb2-4ff1-bb61-2088ed53eb78)
+**Truth Table**
+
+
+(i)F1
+
+![Screenshot 2024-12-24 112423](https://github.com/user-attachments/assets/bb6c21cc-aa3f-4693-82cc-92d656e48af8)
+
+(ii)F2
+
+![Screenshot 2024-12-24 112428](https://github.com/user-attachments/assets/9c30c5aa-a560-4676-bc25-60d49d6314cd)
 
 **Procedure**
 
@@ -38,14 +54,14 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by: pothu sumanth
 RegisterNumber: 24000831
 
-        i)
+        i)F1
         module funct1(a,b,c,d,f1);
         input a,b,c,d;
         output f1;
         assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
         endmodule
 
-      ii)
+      ii)F2
       module funct2(w,x,y,z,f2);
       input w,x,y,z;
       output f2;
@@ -55,10 +71,26 @@ RegisterNumber: 24000831
 
 
 **RTL realization**
+
+
+(i)F1
+
+
+![WhatsApp Image 2024-12-24 at 11 31 06_e34debe5](https://github.com/user-attachments/assets/adb50b8e-45b1-4029-8137-fa601f0a86ab)
+
+(ii)F2
 ![Screenshot 2024-11-12 105607](https://github.com/user-attachments/assets/fddef869-e6cf-4e36-9e01-60b4a84dbd98)
 
 
 **Timing Diagram**
+
+
+(i)F1
+
+![WhatsApp Image 2024-12-24 at 11 31 18_d5fe2e14](https://github.com/user-attachments/assets/ee4db4d7-ad7c-4c1d-a56f-a67ca595a774)
+
+(ii)F2
+
 ![Screenshot 2024-11-12 111656](https://github.com/user-attachments/assets/1608e769-ba5a-4b74-877e-1f7697abf401)
 
 
