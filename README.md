@@ -79,7 +79,8 @@ RegisterNumber: 24000831
 ![WhatsApp Image 2024-12-24 at 11 31 06_e34debe5](https://github.com/user-attachments/assets/adb50b8e-45b1-4029-8137-fa601f0a86ab)
 
 (ii)F2
-![Screenshot 2024-11-12 105607](https://github.com/user-attachments/assets/fddef869-e6cf-4e36-9e01-60b4a84dbd98)
+
+![Screenshot 2024-12-27 135405](https://github.com/user-attachments/assets/8c882460-a61e-4acb-b6a5-65319decd230)
 
 
 **Timing Diagram**
@@ -91,7 +92,8 @@ RegisterNumber: 24000831
 
 (ii)F2
 
-![Screenshot 2024-11-12 111656](https://github.com/user-attachments/assets/1608e769-ba5a-4b74-877e-1f7697abf401)
+
+![Screenshot 2024-12-27 135411](https://github.com/user-attachments/assets/5a19da84-edc6-4faa-aa1f-401be7a35dab)
 
 
 **Result:**
